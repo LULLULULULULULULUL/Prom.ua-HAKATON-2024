@@ -1,0 +1,154 @@
+/* style.css */
+body{
+    background-color: white;
+}
+header{
+
+}
+.banner{
+    padding: 6px;
+    width:100%;
+    text-align: center;
+    display: inline-block;
+    background:#C69D77;
+    color:white;
+    font-family:sans-serif;
+}
+.banner button{
+    transition: 0.3s;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: #C98CCE;
+    border: 3px solid #AB00E8;
+    border-radius: 5px;
+}
+
+.banner button:hover{
+    transition: 0.3s;
+    font-size: 35px;
+}
+
+main button:hover{
+    transition: 0.3s;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 22px;
+}
+
+header p{
+    color:#808080;
+    opacity: 53%;
+}
+
+.logo{
+    size:15px;
+    left:5px;
+}
+
+.header-line{
+    display: inline-flex;
+}
+
+.search-form_txt{
+    font-size: 20px;
+    outline: none;
+    border:none;
+    width:620px;
+    height: 40px;
+}
+
+.search-text_img{
+    border:none;
+    background-color:#D9D9D9;
+    color:#808080;
+}
+
+.search-form{
+    height: 47px;
+    border-radius: 8px;
+    border:#A17CAE solid 2px;
+    padding:0px;
+    margin-top:20px;
+    margin-left:60px;
+}
+
+.buttons{
+    transition: 0.3s;
+    margin-left:25px;
+    margin-top:10px;
+}
+
+.buttons img{
+    transition: 0.3s;
+    margin-left: 30px;
+}
+
+.Liker1337{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.blue{
+    color:#00A3FF;
+}
+
+iframe{
+    margin-left: 15px;
+    border-radius: 15px;
+}
+
+.GAVER{
+    display: inline-flex;
+}
+
+.STVORYTYMAGAZIN{
+    margin-left:50px;
+    margin-top: 50px;
+    border:2px solid #A17CAE;
+    padding:12px;
+    text-align: center;
+    border-radius: 8px;
+}
+.STVORYTYMAGAZIN button{
+    transition: 0.3s;
+    border: 4px solid #AB00E8;
+    font-size: 20px;
+    border-radius: 6px;
+    padding:12px;
+}
+
+.fyp{
+    margin-top: 15px;
+    text-align: center;
+    display: inline-flex;
+}
+.fypt{
+    border-radius: 7px;
+    margin: 15px;
+    padding:15px;
+    display: block;
+    border:3px solid #AB00E8;
+}
+.fypt img{
+    border-radius: 7px;
+    height:220px;
+    width: 220px;
+}
+.fypt a{
+    text-decoration: none;
+    color: #AB00E8;
+    font-size: 25px;
+}
+
+.fypt button{
+    border-radius: 7px;
+    background-color: #C98CCE;
+    border: 2px solid #AB00E8;
+    padding:5px;
+}
